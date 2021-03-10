@@ -95,26 +95,6 @@ notificationUtils.getManager().notify(4,notification);
 - ![image](https://github.com/yangchong211/YCNotification/blob/master/image/2.png)
 
 
-### 05.版本更新日志
-- v1.0.0 更新于2017年3月9日
-- v1.0.1 更新于2017年7月18日
-- v2.0.0 更新于2018年11月20日
-
-
-#### 关于其他内容介绍
-![image](https://upload-images.jianshu.io/upload_images/4432347-7100c8e5a455c3ee.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-
-#### 关于博客汇总链接
-- 1.[技术博客汇总](https://www.jianshu.com/p/614cb839182c)
-- 2.[开源项目汇总](https://blog.csdn.net/m0_37700275/article/details/80863574)
-- 3.[生活博客汇总](https://blog.csdn.net/m0_37700275/article/details/79832978)
-- 4.[喜马拉雅音频汇总](https://www.jianshu.com/p/f665de16d1eb)
-- 5.[其他汇总](https://www.jianshu.com/p/53017c3fc75d)
-
-
-
-
 #### 关于LICENSE
 ```
 Licensed under the Apache License, Version 2.0 (the "License");
